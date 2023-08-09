@@ -6,10 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: powderblue;
+  background-image: linear-gradient( powderblue,blanchedalmond);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Garamond, Garamond, Garamond;
   font-size: 100%;
 }
 
@@ -25,8 +26,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Gabriela', Garamond;
+  color: DarkSlateGrey;
 }
 
 h1 {
@@ -40,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Gabriela', Garamond;
   font-size: 1.5em;
   margin-top: .5em;
 }
